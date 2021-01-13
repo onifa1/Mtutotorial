@@ -13,7 +13,8 @@ main(){
   // arrays of 4 values
   //BODMAS
 
-  var average = 5 + 6 + 7 + 8/4;
+
+  var average = (5+4+7+8)/4;
 
   print(average);
 
