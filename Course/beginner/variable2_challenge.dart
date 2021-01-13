@@ -8,9 +8,9 @@ main(){
 
   var apple = 15.5;
   var banana = 16.6;
-  var add = apple + banana;
+  var total_cost = apple + banana;
 
-  var total_cost = add;
+
 
   print("the total cost $total_cost");
 
