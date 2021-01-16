@@ -7,7 +7,7 @@ main(){
 
    */
 
-  
-
+  var name = stdin.readLineSync();
+  if()
 
 }
